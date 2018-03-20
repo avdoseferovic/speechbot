@@ -1,0 +1,19 @@
+ul {
+ list-style: none;
+ font-size: 25px;
+ color: white;
+}
+p {
+	font-size: 20px;
+	color: #61D7A7;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.section {
+	background-color: #212529;
+}
+#txtAlign {
+	text-align: center;
+}

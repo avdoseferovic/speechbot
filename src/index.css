@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.centerit{
+	margin: auto;
+	margin-top: 100px;
+    width: 50%;
+    padding: 10px;
+}
+.stopButton{
+	display:block;
+    margin:auto;
+	background-image: url( './stop-button.png' );
+    height: 128px;  
+    width: 128px;
+    cursor: pointer;
+}
+.startButton{
+	display:block;
+    margin:auto;
+	background-image: url( './record-button.png' );
+    height: 128px;  
+    width: 128px;
+    cursor: pointer;
+}
